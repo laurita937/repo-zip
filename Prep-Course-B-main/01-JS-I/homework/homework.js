@@ -6,6 +6,8 @@ d
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
 
+sebito
+
 // Crea una variable booleana:c
 carina
 const nuevoBool = null;

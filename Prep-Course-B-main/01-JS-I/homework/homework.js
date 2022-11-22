@@ -2,11 +2,12 @@
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = null;
-
+d
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
 
-// Crea una variable booleana:
+// Crea una variable booleana:c
+carina
 const nuevoBool = null;
 
 // Resuelve el siguiente problema matemático:

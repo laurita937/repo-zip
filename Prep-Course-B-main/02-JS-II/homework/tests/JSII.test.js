@@ -32,15 +32,14 @@ const {
   describe('devolverString(str)', function() {
     it('Deberia devolver el string provisto', function() {
       let string = 'Henry';
-      expect(devolverString(string)).toBe(string);
-    });
-  });
+      expect(devolverString(string)).toBe(string)
+  });return str
   
   describe('suma(x, y)', function() {
     it('Deberia devolver la suma de los dos argumentos', function() {
       expect(suma(5, 5)).toBe(10);
       expect(suma(-1, 5)).toBe(4);
-    });
+    });return x+y
   });
   
   describe('resta(x, y)', function() {
